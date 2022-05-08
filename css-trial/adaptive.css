@@ -1,0 +1,85 @@
+@media only screen and 	(max-width: 1200px){
+	.countainer {
+		padding-left: 150px;
+	}
+	.logotype a {
+		margin-right: 40px;
+	}
+}
+@media only screen and 	(max-width: 992px){
+	.countainer {
+		padding-left: 10px;
+	}
+	.performance {
+		padding-left: 30px;
+	}
+	.knopka {
+		width: 120%;
+	}
+}
+@media only screen and 	(max-width: 768px){
+	.panel {
+		padding-top: 5px;
+	}
+	.logotype a {
+		margin-right: 15px
+	}
+	.logotype a img {
+		width: 60%; 
+
+	}
+	.menu li {
+		margin-right: 10px;
+	}
+	.menu li a {
+		font-size: 12px;
+	}
+	.tel a {
+		font-size: 11px
+	}
+	.phone {
+		width: 19px;
+	}
+	.phone a img {
+		width: 60%;
+	}
+	.intro {
+		font-size: 40px;
+	}
+	.podintro {
+		font-size: 20px;
+	}
+	.knopka {
+		width: 150%;
+	}
+}
+@media only screen and 	(max-width: 480px){
+	.logotype {
+		width: 80px;
+	}
+	.logotype a {
+		margin-right: 1px;
+	}
+	.menu li a {
+		font-size: 10px;
+	}
+	.tel a {
+		font-size: 9px
+	}
+	.performance {
+		padding-left: 20px;
+	}
+	.intro {
+		font-size: 25px;
+		margin-top: 165px
+	}
+	.podintro {
+		font-size: 17px;
+	}
+	.knopka {
+		width: 200%;
+	}
+}
+@media only screen and 	(max-width: 320px){
+	
+}
